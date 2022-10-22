@@ -1,7 +1,7 @@
 # E-Commerce-BackEnd
 
 ## Description of Project
-This application encompasses all of the backend set up for an e-commerce company. Users can GET all items in the database as well as GET items by an id. There are separate routes for categories, products, and tags. Users can also POST or create new products as well as PUT or update the entries. The project will provide e-commerce companies a solid starter code for all odf their backend needs with a mySQL database. 
+This application encompasses all of the backend set up for an e-commerce company. Users can GET all items in the database as well as GET items by an id. There are separate routes for categories, products, and tags. Users can also POST or create new products as well as PUT or update the entries. The project will provide e-commerce companies a solid starter code for all of their backend needs with a mySQL database. 
 
 ## Tech/Framework Used
 ### Built with
